@@ -1,0 +1,56 @@
+﻿*{
+    padding:0px;
+    margin:0px;
+}
+
+.top {
+    display: flex;
+}
+
+.no1 {
+    width: 100%;
+    height: 200px;
+}
+
+.no2 {
+    width: 20%;
+    height: 200px;
+}
+
+.product {
+    margin-left: 5px;
+}
+
+.order {
+    border: 1px solid black;
+    margin-top:15px;
+}
+
+    .order tr th {
+        border: 1px black solid;
+    }
+
+    .order tr td {
+        border: 1px solid black;
+    }
+
+.status {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.status2 {
+    margin-top: 15px;
+    text-align:center;
+    margin-left:5px;
+}
+
+.credit {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.credit2 {
+    margin-top: 15px;
+    text-align:center;
+    margin-left:5px;
+}
